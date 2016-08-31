@@ -17,9 +17,9 @@ Chapter 4 - Sending them into battle
 Chapter 1 - Building the Barracks to Form an Army
 So you decided to create an army of bots that will fight for you. Well you young peon, we will show you step by step on how to do that. Here is what you need:
 
-1.) Make sure you have Python 2.7.12 (as of 8/30/16)
-2.) Create a new twitter account (email as well). 
-3.) We will be using Windows Powershell (but also explain on Terminal as well)
+1. Make sure you have Python 2.7.12 (as of 8/30/16)
+2. Create a new twitter account (email as well). 
+3. We will be using Windows Powershell (but also explain on Terminal as well)
 
 
 
