@@ -15,6 +15,8 @@ Chapter 3 - Training Soldiers
 Chapter 4 - Sending them into battle
 
 Chapter 1 - Building the Barracks to Form an Army
+
+
 So you decided to create an army of bots that will fight for you. Well you young peon, we will show you step by step on how to do that. Here is what you need:
 
 1. Make sure you have Python 2.7.12 (as of 8/30/16)
