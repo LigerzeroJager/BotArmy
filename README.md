@@ -5,9 +5,13 @@ This program is meant to simulate the future in where bots can talk to each othe
 How to Build an Army v1.0
 
 Table of Contents
-Chapter 1 - Building the Barracks to Form an Army\n
+
+Chapter 1 - Building the Barracks to Form an Army
+
 Chapter 2 - Queing Soldiers for Construction
+
 Chapter 3 - Training Soldiers
+
 Chapter 4 - Sending them into battle
 
 Chapter 1 - Building the Barracks to Form an Army
