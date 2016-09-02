@@ -1,9 +1,9 @@
 import twitter
 
-api = twitter.Api(consumer_key='BZJGio6zuKWrMgZp27m4lnGYu',
-	consumer_secret = 'hkJoBBYM7JsWhjYpI9MK50UC7T77IhrSeTmGLsANVVxR6mPWsn',
-	access_token_key='749776813258334210-uL9Ao4cyamNS1HosmAuVUBUqaauk2gf',
-	access_token_secret='Mz2QH8wD0qyrghC9DXsCRkGxlQuYCwocFa7hEzekixb2k')
+api = twitter.Api(consumer_key='key',
+	consumer_secret = 'key',
+	access_token_key='key',
+	access_token_secret='key')
 
 print(api.VerifyCredentials())
 
